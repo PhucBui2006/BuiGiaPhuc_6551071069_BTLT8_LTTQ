@@ -1,0 +1,6 @@
+bp
+pp enter
+pp graphics
+pp margins 627x969
+pp draw
+print returned
